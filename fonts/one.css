@@ -1,3 +1,8 @@
+/* Sans-serif titles: Cabin*/
+@import "https://fonts.googleapis.com/css?family=Cabin";
+/*    Serif text: Old Standard TT*/
+@import "https://fonts.googleapis.com/css?family=Old+Standard+TT";
+/*    Style pairing retrieved from: "http://fontpair.co//"*/
 *{
     padding: 0;
     margin: 0;
@@ -6,18 +11,18 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: serif;
+    font-family: "Old Standard TT", "Times New Roman", Times, serif;
 }
 html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: sans-serif;
+    font-family: Cabin, arial, helvetica, sans-serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: sans-serif;
+    font-family: Cabin, arial, helvetica, sans-serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
