@@ -1,7 +1,6 @@
 /* Sans-serif titles: Cabin*/
-@import "https://fonts.googleapis.com/css?family=Cabin";
+@import "https://fonts.googleapis.com/css?family=Cabin|Old+Standard+TT";
 /*    Serif text: Old Standard TT*/
-@import "https://fonts.googleapis.com/css?family=Old+Standard+TT";
 /*    Style pairing retrieved from: "http://fontpair.co//"*/
 *{
     padding: 0;

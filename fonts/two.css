@@ -1,7 +1,6 @@
 /*  Serif titles: PLAYFAIR DISPLAY*/
-@import "https://fonts.googleapis.com/css?family=Playfair+Display";
+@import "https://fonts.googleapis.com/css?family=Playfair+Display|Fauna+One";
 /*    Sans-serif text: Fauna One*/
-@import "https://fonts.googleapis.com/css?family=Fauna+One";
 /*    Style pairing retrieved from: "https://femmebot.github.io/google-type/"*/
 
 *{
@@ -12,7 +11,7 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: "PLAYFAIR DISPLAY", Arial, Helvetica, sans-serif;
+    font-family: "Playfair Display", Arial, Helvetica, sans-serif;
 }
 html,body{
     background-color: #d4d4d4;
