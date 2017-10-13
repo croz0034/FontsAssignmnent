@@ -1,8 +1,8 @@
-/*  Serif titles: PLAYFAIR DISPLAY*/
-@import "https://fonts.googleapis.com/css?family=Playfair+Display|Fauna+One";
-/*    Sans-serif text: Fauna One*/
-/*    Style pairing retrieved from: "https://femmebot.github.io/google-type/"*/
-
+/*  Serif titles: Josefin Slab*/
+@import "https://fonts.googleapis.com/css?family=Josefin+Sans|Josefin+Slab";
+/*    Sans-serif text: Josefin Sans*/
+/*    Style pairing retrieved from: "http://fontpair.co/#two"*/
+/**************** Chosen Fonts changed to get a more clearly serif and sans-serif font pairing*/
 *{
     padding: 0;
     margin: 0;
@@ -11,18 +11,18 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: "Playfair Display", Arial, Helvetica, sans-serif;
+    font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
 }
 html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: "Fauna One", "Times New Roman", Times, serif;
+    font-family: "Josefin Slab", "Times New Roman", Times, serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: "Fauna One", "Times New Roman", Times, serif;
+    font-family: "Josefin Slab", "Times New Roman", Times, serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
